@@ -1,0 +1,2 @@
+# Project-Linksys-WRT300N-Wireless-Configuration-in-Cisco-Packet-Tracer
+This project demonstrates the configuration of a Linksys WRT300N wireless access point using Cisco Packet Tracer. Tasks include changing SSID, enabling WEP and WPA2 security, configuring MAC filters, and testing connectivity with various devices. The project emphasizes practical skills in setting up and securing a wireless network.
